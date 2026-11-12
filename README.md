@@ -21,7 +21,7 @@ Raw Data (CSV) ──► Python (Cleaning & EDA) ──► MySQL (Storage & SQL 
 | Tool | Purpose |
 |------|---------|
 | **Python** (pandas) | Data cleaning and exploratory data analysis |
-| **SQLAlchemy + PyMySQL** | Loading the cleaned data into MySQL |
+| **SQLAlchemy ** | Loading the cleaned data into MySQL |
 | **MySQL** | Querying and answering business questions |
 | **Power BI** | Interactive dashboard and visual reporting |
 | **Jupyter Notebook** | Development environment |
