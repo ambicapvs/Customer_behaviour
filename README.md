@@ -55,7 +55,7 @@ customer-shopping-behavior-analysis/
 
 ## 📊 Dataset
 
-- **Source:** [Add dataset source / link here]
+- **Source:** [[Add dataset source / link here]](https://github.com/ambicapvs/Customer_behaviour/blob/main/customer_shopping_behavior.csv)
 - **Rows:** [number of rows]
 - **Columns:** [number of columns]
 - **Key fields:** [e.g. Customer ID, Age, Gender, Category, Purchase Amount, Location, Season, Payment Method, Review Rating, Subscription Status]
